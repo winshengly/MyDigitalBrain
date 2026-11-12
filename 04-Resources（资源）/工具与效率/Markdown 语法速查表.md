@@ -8,7 +8,11 @@ created: 2026-11-12
 description: Markdown 速查表提供了所有 Markdown 语法元素的基本解释。如果你想了解某些语法元素的更多信息，请参阅更详细的 基本语法 和 扩展语法。
 tags:
   - markdown
+  - 工具
 ---
+
+# Markdown 语法速查表
+
 ## 总览
 
 Markdown 速查表提供了所有 Markdown 语法元素的基本解释。如果你想了解某些语法元素的更多信息，请参阅更详细的 [基本语法](https://markdown.com.cn/basic-syntax/) 和 [扩展语法](https://markdown.com.cn/extended-syntax/).
