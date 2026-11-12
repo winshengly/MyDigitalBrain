@@ -3,7 +3,6 @@ title: Markdown 语法速查表
 source: https://markdown.com.cn/cheat-sheet.html
 author:
   - "[[mrknight]]"
-published:
 created: 2026-11-12
 description: Markdown 速查表提供了所有 Markdown 语法元素的基本解释。如果你想了解某些语法元素的更多信息，请参阅更详细的 基本语法 和 扩展语法。
 tags:
