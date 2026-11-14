@@ -20,7 +20,7 @@ IROS'22 Tutorial "Riemann and Gauss meet Asimov: A tutorial on
 https://www.youtube.com/playlist?list=PL_oEZ6dld4ignAdbFvcP_LAJgNbdrNBKC 
 Leonel Rozo & Noémie Jaquier - Basics of Riemannian Geometry for Robotics
 
-![[b74cfda21c77fa421f77b566ea0fa52c_.png]]
+![[几何与流形学习库汇总.png]]
 
 1)RSS 2021, Spotlight Talk 91: Learning Riemannian Manifolds for Geodesic Motion Skills https://www.youtube.com/watch?v=K6DkUjVIG-Y
 2)Gaussians on Riemannian Manifolds - Sylvain Calinon (IROS'2020 presentation of IEEE RAM) https://www.youtube.com/watch?v=_sgXjqXQr3o
