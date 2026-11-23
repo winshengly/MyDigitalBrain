@@ -1,5 +1,5 @@
 ---
-title: 等变神经网络 Equivariant Neural Networks （一）基础知识
+title: 等变神经网络 Equivariant Neural Networks 基础知识
 source: https://blog.csdn.net/qq_31448607/article/details/130972425
 author:
   - "[[N1cez]]"
